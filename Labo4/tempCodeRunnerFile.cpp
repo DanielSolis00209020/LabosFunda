@@ -1,0 +1,1 @@
+printf("No son iguales las lletras bro");
